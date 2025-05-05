@@ -9,5 +9,7 @@ namespace MarDeLuz
     internal class test1
     {
         public int TEST { get; set; }
+
+        public int TEST { get; set; }
     }
 }
