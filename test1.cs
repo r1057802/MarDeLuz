@@ -18,6 +18,15 @@ namespace MarDeLuz
         public int TEST { get; set; }
         public int TEST { get; set; }
 
+        public int TEST { get; set; }
+        public int TEST { get; set; }
+        public int TEST { get; set; }
+        public int TEST { get; set; }
+        public int TEST { get; set; }
+        public int TEST { get; set; }
+        public int TEST { get; set; }
+        public int TEST { get; set; }
+
 
     }
 }
